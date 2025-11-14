@@ -1,0 +1,7 @@
+# .gitignore
+data/
+*.csv
+*.zip
+.ipynb_checkpoints/
+.venv/
+kaggle.json
